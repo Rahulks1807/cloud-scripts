@@ -1,3 +1,4 @@
+#Make sure you install the package gnumeric using you choice of package manager before running this script
 #!/bin/bash
 
 # Excel sheet file name (replace with your file path)
